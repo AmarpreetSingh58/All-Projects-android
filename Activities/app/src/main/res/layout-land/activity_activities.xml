@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kulvi.activities.Activities">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textSize="40sp"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:id="@id/editText1"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/increament"
+        android:layout_alignParentRight="true"
+        android:paddingBottom="16dp"
+        android:textSize="30sp"
+        android:id="@+id/button1"
+        android:onClick="increment"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@id/button1"
+        android:text="@string/decreament"
+        android:paddingBottom="16dp"
+        android:textSize="30sp"
+        android:onClick="decrement"/>
+
+
+
+</RelativeLayout>

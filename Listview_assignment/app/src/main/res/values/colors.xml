@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#6dddfc</color>
+    <color name="hello_button_color">#FFF176</color>
+    <color name="android_button_color">#B2FF59</color>
+    <color name="interest_button_color">#FF9100</color>
+    <color name="interest_list">#FFD180</color>
+    <color name="android_list">#CCFF90</color>
+    <color name="hello_list">#FFFF8D</color>
+</resources>

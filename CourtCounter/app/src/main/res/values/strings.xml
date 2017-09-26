@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="tema1">First Team</string>
+    <string name="tema2">Second Team</string>
+    <string name="name">Enter Team name</string>
+    <string name="teamcolor">Choose color for team</string>
+    <string-array name="teamcolor1">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Voilet</item>
+        <item>Orange</item>
+    </string-array>
+    <string name="next_button">Next</string>
+    <string name="SameColorErrorText">Both the teams assigned same color</string>
+    <string name="reset">Reset Score</string>
+</resources>

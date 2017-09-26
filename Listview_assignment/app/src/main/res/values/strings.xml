@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Listview_assignment</string>
+    <string name="hello">Hello</string>
+    <string name="interest">Interests</string>
+    <string name="android">Android</string>
+    <string name="reset">Reset</string>
+    <string-array name="android_response">
+        <item>I</item>
+        <item>Like</item>
+        <item>Developing</item>
+        <item>Good</item>
+        <item>Android</item>
+        <item>Applications</item>
+    </string-array>
+    <string-array name="hello_response">
+        <item>Hi!..</item>
+        <item>There</item>
+        <item>I </item>
+        <item>am</item>
+        <item>Amarpreet </item>
+        <item>Singh</item>
+    </string-array>
+    <string-array name="interest_response">
+        <item>Football</item>
+        <item>SuperCars</item>
+        <item>Technology</item>
+        <item>Mystery Novels</item>
+        <item>Exploring</item>
+    </string-array>
+    <string-array name="reset_array">
+        <item></item>
+    </string-array>
+</resources>
